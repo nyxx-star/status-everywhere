@@ -1,0 +1,19 @@
+[data-status="online"] {
+    border: 2px solid #3BA55D !important;
+}
+
+[data-status="idle"] {
+    border: 2px solid #FAA81A !important;
+}
+
+[data-status="dnd"] {
+    border: 2px solid #ED4245 !important;
+}
+
+[data-status="streaming"] {
+    border: 2px solid #593695 !important;
+}
+
+[data-status="offline"] {
+    border: 2px solid #d1d1d1 !important;
+}
