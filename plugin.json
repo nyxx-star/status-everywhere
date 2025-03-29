@@ -1,9 +1,9 @@
 {
-    "name": "StatusEverywhere",
-    "version": "1.0.0",
-    "description": "Mostra status de usuários em avatares do Bunny/Pyoncord.",
-    "author": "nyxx-star",
-    "license": "MIT",
-    "repo": "https://github.com/nyxx-star/status-everywhere",
-    "load_url": "https://nyxx-star.github.io/status-everywhere/inject.js"
+  "name": "StatusEverywhere",
+  "version": "1.0.0",
+  "description": "Mostra status de usuários em avatares do Bunny/Pyoncord.",
+  "author": "nyxx-star",
+  "license": "MIT",
+  "repo": "https://github.com/nyxx-star/status-everywhere",
+  "load_url": "https://nyxx-star.github.io/status-everywhere/inject.js"
 }
